@@ -41,5 +41,12 @@ group :development, :test do
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+
+    # Allows for easy pagination
+    gem 'kaminari'
+
+    # Allows us to make forms easier
+    gem 'simple_form'
+
 end
 
