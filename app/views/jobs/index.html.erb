@@ -3,8 +3,8 @@
 <% @jobs.each do |job| %>
  <div class="job">
      <h2><%= link_to job.title, job.url %></h2>
-     <p><%= job.company %></p>
+     <p><%= job.company %>
 </div>
 <% end %>
 
-<p><%= link_to "Add a job", new_jop_path %></p>
+<p><%= link_to "Add a job", new_job_path %></p>
