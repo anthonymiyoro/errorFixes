@@ -1,0 +1,1773 @@
+# Copyright (C) 2015 Astoundify
+# This file is distributed under the GNU General Public License v2 or later.
+# Translators:
+# Simon Nilsson <simon.nilsson@recruitify.se>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Jobify\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-08-12 14:55:40+00:00\n"
+"PO-Revision-Date: 2015-10-21 09:36+0000\n"
+"Last-Translator: Primary Group AB <dan.paulsson@hbgonline.eu>\n"
+"Language-Team: Swedish (http://www.transifex.com/astoundify/jobify/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:13
+msgid "Page Not Found"
+msgstr "Sidan hittas inte"
+
+#: archive-job_listing.php:12
+msgid "All Jobs"
+msgstr "Alla jobb"
+
+#: archive-resume.php:12
+msgid "All Resumes"
+msgstr "Alla CV"
+
+#: archive.php:14
+msgid "Daily Archives: %s"
+msgstr "Dagligt arkiv: %s"
+
+#: archive.php:16
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#: archive.php:18
+msgid "Yearly Archives: %s"
+msgstr "Årliga Arkiv: %s"
+
+#: archive.php:21
+msgid "Author: %s"
+msgstr "Författare: %s"
+
+#: archive.php:26
+msgid "Blog Archives"
+msgstr "Blogg Arkiv"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Kommentar navigering"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre Kommentarer"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Nyare Kommentarer och rarr;"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: content-grid.php:23 content.php:22
+msgid "0 Comments"
+msgstr "0 Comments"
+
+#: content-grid.php:23 content.php:22
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: content-grid.php:23 content.php:22
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: content-grid.php:33 content.php:59
+msgid "Continue Reading"
+msgstr "Fortsätt läsa"
+
+#: content-imported-job-listing.php:22 content-job_listing.php:25
+msgid "Posted %s ago"
+msgstr "Publicerat %s sedan"
+
+#: content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\"> Kom igång här </a>."
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr "Tyvärr, men ingenting matchade dina sökord. Vänligen försök igen med andra sökord."
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Det verkar som vi kan & rsquoen; t hitta det du & rsquo; re letar efter. Kanske söker kan hjälpa."
+
+#: content-resume.php:29 content-single-the-resume.php:9
+msgid "Updated %s ago"
+msgstr "Uppdaterad% s sedan"
+
+#: content-single-job-related.php:38
+msgid "Related Jobs"
+msgstr "Relaterade jobb"
+
+#: content-single-job.php:33
+msgid "Posted <date>%s</date> ago"
+msgstr "Postat <datum>%s </ datum> sedan"
+
+#: content-single-job_listing.php:21
+msgid "This job listing has expired"
+msgstr "Det här jobbet notering har löpt ut"
+
+#: content-single-job_listing.php:26
+msgid "This position has been filled"
+msgstr "Denna position har fyllts"
+
+#: content-single-job_listing.php:35
+msgid "Overview"
+msgstr "Översikt"
+
+#: content-single-job_listing.php:42
+msgid "About %s"
+msgstr "Om %s"
+
+#: content-single-resume.php:29
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:29
+msgid "Description"
+msgstr "Beskrivning"
+
+#: content-single-resume.php:39
+msgid "Skills"
+msgstr "Förmåga"
+
+#: content-single-resume.php:47
+msgid "Education"
+msgstr "Utbildning"
+
+#: content-single-resume.php:68
+msgid "Experience"
+msgstr "Erfarenhet"
+
+#: content.php:14
+msgid "Written by <a class=\"author-link\" href=\"%s\" rel=\"author\">%s</a>"
+msgstr "Skrivet av <a class=\"author-link\" href=\"%s\" rel=\"author\">%s</a>"
+
+#: content.php:53
+msgid "Tags:"
+msgstr "Tags:"
+
+#: content.php:54
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: footer.php:37
+msgid "&copy; %1$s %2$s &mdash; All Rights Reserved"
+msgstr "&copy; %1$s %2$s &mdash; All Rights Reserved"
+
+#: form-register.php:12 form-register.php:21
+msgid "(optional)"
+msgstr "(tillval)"
+
+#: form-register.php:28
+msgid "Already have an account? <a href=\"%s\">Login</a>"
+msgstr "Har du redan ett konto? <a href=\"%s\"> Inloggning </a>"
+
+#: functions.php:75
+msgid "Navigation Menu"
+msgstr "Navigeringsmeny"
+
+#: functions.php:76
+msgid "Footer Social"
+msgstr "Sidfot sociala"
+
+#: functions.php:307
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: functions.php:327
+msgid "Homepage Widget Area"
+msgstr "Hemsida Widget Area"
+
+#: functions.php:329
+msgid "Choose what should display on the custom static homepage."
+msgstr "Välj vad som ska visas på den anpassade statiska hemsida."
+
+#: functions.php:337 inc/theme-customizer.php:96
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:339
+msgid "Choose what should display on blog pages."
+msgstr "Välj vad som ska visas på bloggsidor."
+
+#: functions.php:355
+msgid "Footer Widget Area"
+msgstr "Sidfot widget område"
+
+#: functions.php:357
+msgid "Display columns of widgets in the footer."
+msgstr "Visningskolumner för widgets i sidfoten."
+
+#: functions.php:369
+msgid "Price Table"
+msgstr "Pris Table"
+
+#: functions.php:371
+msgid ""
+"Drag multiple \"Price Option\" widgets here. Then drag the \"Pricing Table\""
+" widget to the \"Homepage Widget Area\"."
+msgstr "Dra flera \"Pris Option\" widgets här. Dra sedan \"pristabellen\" widget till \"Hemsida Widget Area\"."
+
+#: functions.php:544
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:544 functions.php:565
+msgid "Edit"
+msgstr "Redigera"
+
+#: functions.php:567
+msgid "Reply"
+msgstr "Svar"
+
+#: functions.php:572
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar moderering."
+
+#: functions.php:658
+msgid "Subscription Level Visibility:"
+msgstr "Tecknings Nivå Sikt:"
+
+#: header.php:57
+msgid "Close"
+msgstr "Stäng"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:16
+msgid "Outputs subscription options for Restrict Content Pro"
+msgstr "Utgångar teckningsoptioner för Begränsa Content Pro"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:18
+msgid "Jobify - Home: RCP Price Table"
+msgstr "Jobify - Home: RCP Pris Table"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:22
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:22
+#: inc/widgets/class-widget-price-table.php:20
+msgid "Plans and Pricing"
+msgstr "Planer och priser"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:23
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:23
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:23
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:21
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:21
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:21
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:21
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-categories.php:21
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-file.php:21
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-links.php:21
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-skills.php:21
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-recent.php:21
+#: inc/widgets/class-widget-blog-posts.php:21
+#: inc/widgets/class-widget-price-option.php:21
+#: inc/widgets/class-widget-price-table.php:21
+#: inc/widgets/class-widget-stats.php:21 inc/widgets/class-widget-video.php:21
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:29
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:29
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:57
+#: inc/widgets/class-widget-blog-posts.php:27
+#: inc/widgets/class-widget-callout.php:22
+#: inc/widgets/class-widget-price-option.php:32
+#: inc/widgets/class-widget-price-table.php:27
+#: inc/widgets/class-widget-stats.php:28 inc/widgets/class-widget-video.php:27
+msgid "Description:"
+msgstr "Beskrivning:"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:89
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:97
+#: rcp/register.php:40 rcp/register.php:48
+msgid "free"
+msgstr "fri"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:92
+#: rcp/register.php:43
+msgid "%2$s"
+msgid_plural "%1$s %2$ss"
+msgstr[0] "%2$s"
+msgstr[1] ""
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:93
+#: rcp/register.php:44
+msgid "* %s after first %s"
+msgstr "*%s efter första %s"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:103
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:144
+#: rcp/register.php:54
+msgid "unlimited"
+msgstr "obegränsad"
+
+#: inc/integrations/restrict-content-pro/widgets/class-widget-price-table-rcp.php:107
+msgid "Get Started"
+msgstr "Komma igång"
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:16
+msgid "Display a slider of company logos you have helped find jobs."
+msgstr "Visa ett reglage av företagslogotyper som du har hjälpt find jobb."
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:18
+msgid "Jobify - Home: Companies Helped"
+msgstr "Jobify - Hem: Företag Hjälpte"
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:22
+msgid "Companies We&#39;ve Helped"
+msgstr "Företag Vi Hjälpte"
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:23
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:31
+msgid "Title"
+msgstr "Titel"
+
+#: inc/integrations/testimonials/widgets/class-widget-companies.php:37
+msgid "Number of companies to show."
+msgstr "Antal företag att visa."
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:16
+msgid "Display a slider of all the people you have helped."
+msgstr "Visa ett reglage av alla de personer som du har hjälpt."
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:18
+msgid "Jobify - Home: Testimonials"
+msgstr "Jobify - Hem: Rekommendationer"
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:22
+msgid "Kind Words From Happy Campers"
+msgstr "Vänliga ord från Happy Campers"
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:37
+msgid "Number of testimonials:"
+msgstr "Antal vittnesmål:"
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:42
+msgid "Background Image:"
+msgstr "Bakgrundsbild:"
+
+#: inc/integrations/testimonials/widgets/class-widget-testimonials.php:47
+#: inc/widgets/class-widget-stats.php:45 inc/widgets/class-widget-video.php:37
+msgid "Enable jQuery animations"
+msgstr "Aktivera jQuery animeringar"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:16
+msgid "Outputs Job Packages from WooCommerce"
+msgstr "Utgångar Jobbpaket från WooCommerce"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:18
+msgid "Jobify - Home: WooCommerce Packages"
+msgstr "Jobify - Home: WooCommerce Paket"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:26
+msgid "Order By:"
+msgstr "Sortera efter:"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:30
+msgid "ID"
+msgstr "ID"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:32
+msgid "Menu Order"
+msgstr "Meny Beställ"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:36
+msgid "Order:"
+msgstr "Order:"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:40
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:41
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:45
+msgid "Package Type:"
+msgstr "Förpackningstyp:"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:49
+#: woocommerce.php:35
+msgid "Job Packages"
+msgstr "Jobbpaket"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:50
+msgid "Resume Packages"
+msgstr "Återuppta Paket"
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:144
+msgid "%s for %d job"
+msgid_plural "%s for %s jobs"
+msgstr[0] "%s för %d jobb"
+msgstr[1] ""
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:147
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] "anges för %s dag"
+msgstr[1] ""
+
+#: inc/integrations/woocommerce/widgets/class-widget-price-table-wc.php:157
+msgid "Add to Cart"
+msgstr "Lägg till i kundvagn"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:33
+msgid "%d Items Found"
+msgstr "%d Hittade artiklar"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-map.php:70
+msgid "within a %d mile radius"
+msgstr "inom en %d mils radie"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:134
+msgid "Job Page Sidebar"
+msgstr "Job Page Sidebar"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:136
+msgid "Choose what should display on single job listings."
+msgstr "Välj vad som ska visas på enskilda platsannonser."
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:147
+msgid "Job Info Column %s"
+msgstr "Jobbinfo Kolumn %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:149
+msgid "Choose what should display on single job listings column #%s."
+msgstr "Välj vad som ska visas på samma platsannonser kolumn #%s."
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:192
+msgid "Forgot Password?"
+msgstr "Glömt lösenord?"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:200
+msgid "Please try again."
+msgstr "Var god försök igen."
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:237
+msgid "%s at %s"
+msgstr "%s vid %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:242
+msgid "%s - %s"
+msgstr "%s -%s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:185
+msgid "Facebook username"
+msgstr "Facebook användarnamn"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:188
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:196
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:204
+msgid "yourcompany"
+msgstr "ditt bolag"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:193
+msgid "Google+ username"
+msgstr "Google+ användarnamn"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:201
+msgid "LinkedIn username"
+msgstr "Link användarnamn"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:243
+msgid "Company Description"
+msgstr "Beskrivning av företaget"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:249
+msgid "Company Facebook"
+msgstr "Företaget Facebook"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:254
+msgid "Company Google+"
+msgstr "Företaget Google+"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:259
+msgid "Company LinkedIn"
+msgstr "Företag Link"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:405
+msgid "Search"
+msgstr "Sök"
+
+#: inc/integrations/wp-job-manager/template-tags.php:33
+msgid "Submit Listing &rarr;"
+msgstr "Submit Notering och rarr;"
+
+#: inc/integrations/wp-job-manager/template-tags.php:34
+msgid "&larr; Edit listing"
+msgstr "&larr; Redigera notering"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:14
+msgid "Display the job/resume action buttons"
+msgstr "Visa jobb / CV åtgärdsknappar"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:16
+msgid "Jobify - Job/Resume: Actions"
+msgstr "Jobify - Jobb / Resume: Åtgärder"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:68
+msgid "Watch Video"
+msgstr "Kolla på video"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-apply.php:82
+msgid "Video Resume"
+msgstr "Video Resume"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:14
+msgid "Display the job's categories"
+msgstr "Visa jobbets kategorier"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-categories.php:16
+msgid "Jobify - Job: Categories"
+msgstr "Jobify - Job: Kategorier"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:14
+msgid "Display the company logo or resume picture"
+msgstr "Visa företagets logotyp eller återuppta bild"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-logo.php:16
+msgid "Jobify - Job/Resume: Logo"
+msgstr "Jobify - Jobb / Resume: Logo"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:14
+msgid "Display the job's company social profiles"
+msgstr "Visa jobbBankens företags sociala profiler"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:16
+msgid "Jobify - Job: Company Social"
+msgstr "Jobify - Jobb: Företag Social"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:60
+#: single-company.php:56
+msgid "Website"
+msgstr "Webbplats"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:67
+#: single-company.php:63
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:74
+#: single-company.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:81
+#: single-company.php:77
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-company-social.php:88
+msgid "LinkedIn"
+msgstr "Link"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:14
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:14
+msgid "Display the job type"
+msgstr "Visa jobbtyp"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-location.php:16
+msgid "Jobify - Job: Location"
+msgstr "Jobify - Job: Location"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:14
+msgid "Display a link to more jobs from the company"
+msgstr "Visa en länk till fler jobb från bolaget"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:16
+msgid "Jobify - Job: Company Listings"
+msgstr "Jobify - Jobb: Företagsförteckningen"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:59
+msgid "More jobs by %s"
+msgstr "Fler jobb med %s"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-more-jobs.php:59
+msgid "More Jobs"
+msgstr "Fler Jobb"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:14
+msgid "Display job/resume sharing options"
+msgstr "Display jobb / återuppta delningsalternativ"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-share.php:16
+msgid "Jobify - Job/Resume: Share"
+msgstr "Jobify - Jobb / Resume: Share"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job-type.php:16
+msgid "Jobify - Job: Type"
+msgstr "Jobify - Job: Typ"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:14
+msgid "Display a map with pins indicating areas with active job listings."
+msgstr "Visa en karta med stift som indikerar områden med aktiva platsannonser."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:16
+msgid "Jobify - Home: Jobs Map"
+msgstr "Jobify - Home: Jobb Map"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-map.php:20
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-map.php:20
+msgid "Show search filters"
+msgstr "Visa sökfilter"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:14
+msgid "Output a list of recent jobs."
+msgstr "Ut en lista över de senaste jobben."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:16
+msgid "Jobify - Home: Recent Jobs"
+msgstr "Jobify - Hem: Senaste jobb"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:20
+msgid "Recent Jobs"
+msgstr "Nya jobb"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:26
+msgid "Show Filters"
+msgstr "Visa filter"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:34
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:29
+msgid "Number of jobs to show:"
+msgstr "Antal jobb för att visa:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:39
+msgid "Display the \"Job Spotlight\" section"
+msgstr "Visa avsnittet \"Job Spotlight\""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:43
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:73
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:20
+msgid "Job Spotlight"
+msgstr "Jobb Spotlight"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-recent.php:44
+msgid "Spotlight Title:"
+msgstr "Spotlight Titel:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:14
+msgid "Output search options to search jobs."
+msgstr "Utgångs sökalternativ för att söka jobb."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:16
+msgid "Jobify - Home: Jobs Search"
+msgstr "Jobify - Hem: Jobb Sök"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-search.php:20
+msgid "Search Jobs"
+msgstr "Sök jobb"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:14
+msgid "Output a grid of spotlighted jobs."
+msgstr "Utgång ett rutnät med spotlighted jobb."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-jobs-spotlight.php:16
+msgid "Jobify - Home: Jobs Spotlight"
+msgstr "Jobify - Hem: Jobb Spotlight"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:29
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:188
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:324
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:415
+#: rcp/register.php:145
+msgid "Register"
+msgstr "Register"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:70
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:344
+#: rcp/register.php:114
+msgid "Username"
+msgstr "Användarnamn"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:77
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:351
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:80
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:354
+msgid "email@example.com"
+msgstr "email@example.com"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:84
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:358
+#: rcp/register.php:130
+msgid "Password"
+msgstr "Lösenord"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:93
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:367
+msgid "About You"
+msgstr "Om dig"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:98
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:372
+msgid "&mdash;Select&mdash;"
+msgstr "& ndash; Välj & ndash;"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:99
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:373
+msgid "I&#39;m an employer looking to hire"
+msgstr "I&#39; M en arbetsgivare som vill anställa"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:100
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:374
+msgid "I&#39;m a candidate looking for a job"
+msgstr "I&#39; M en kandidat söker jobb"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:139
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:390
+msgid "%s is a required field"
+msgstr "%s är ett obligatoriskt fält"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:212
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:439
+msgid "Please choose a role for your account"
+msgstr "Välj en roll för ditt konto"
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:228
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:455
+msgid "Your email address is required."
+msgstr "Din e-postadress krävs."
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:231
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:458
+msgid "Your email address isn&#8217;t correct."
+msgstr "Din e-postadress isn&#8217;t korrekt."
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:234
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:461
+msgid "This email is already registered, please choose another one."
+msgstr "Den här e är redan registrerad, välj en annan."
+
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:241
+#: inc/integrations/wp-job-manager/wp-job-manager-form-register.php:468
+msgid "This username is already in use, please choose another one."
+msgstr "Detta användarnamn används redan, välj ett annat."
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:14
+msgid "Display the job application deadline"
+msgstr "Visa tidsfristen jobbansökan"
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:16
+msgid "Jobify - Job: Application Deadline"
+msgstr "Jobify - Job: Sista ansökningsdatum"
+
+#: inc/integrations/wp-job-manager-application-deadline/widgets/class-widget-job-deadline.php:65
+msgid "M j, Y"
+msgstr "Mj, Y"
+
+#: inc/integrations/wp-job-manager-applications/class-wp-job-manager-applications.php:10
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: inc/integrations/wp-job-manager-contact-listing/class-wp-job-manager-contact-listing.php:20
+msgid "Apply for Job"
+msgstr "Ansök om jobb"
+
+#: inc/integrations/wp-job-manager-contact-listing/class-wp-job-manager-contact-listing.php:22
+msgid "Contact Candidate"
+msgstr "Kontakt Kandidat"
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:14
+msgid "Display the job's tags"
+msgstr "Visa jobb taggar"
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job-tags.php:16
+msgid "Jobify - Job: Tags"
+msgstr "Jobify - Job: Etiketter"
+
+#: inc/integrations/wp-resume-manager/class-wp-resume-manager.php:85
+msgid "Resume Page Sidebar"
+msgstr "Återuppta Page Sidebar"
+
+#: inc/integrations/wp-resume-manager/class-wp-resume-manager.php:87
+msgid "Choose what should display on single resume listings."
+msgstr "Välj vad som ska visas på enstaka CV listor."
+
+#: inc/integrations/wp-resume-manager/class-wp-resume-manager.php:98
+msgid "Resume Info Column %s"
+msgstr "Återuppta info Kolumn %s"
+
+#: inc/integrations/wp-resume-manager/class-wp-resume-manager.php:100
+msgid "Choose what should display on resume listings column #%s."
+msgstr "Välj vad som ska visas på CV listor kolumn #%s."
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-categories.php:14
+msgid "Display the resume's categories"
+msgstr "Visa Resumés kategorier"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-categories.php:16
+msgid "Jobify - Resume: Categories"
+msgstr "Jobify - Återuppta: Kategorier"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-file.php:14
+msgid "Display the resume's file"
+msgstr "Visa CV fil"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-file.php:16
+msgid "Jobify - Resume: File"
+msgstr "Jobify - Resume: Arkiv"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-file.php:61
+msgid "Resume.%s"
+msgstr "Återuppta. %s"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-links.php:14
+msgid "Display the resume's links"
+msgstr "Visa meritförteckning kopplingar"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-links.php:16
+msgid "Jobify - Resume: Links"
+msgstr "Jobify - Återuppta: Länkar"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-skills.php:14
+msgid "Display the resume's skills"
+msgstr "Visa meritförteckning kompetens"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resume-skills.php:16
+msgid "Jobify - Resume: Skills"
+msgstr "Jobify - Återuppta: Färdigheter"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-map.php:14
+msgid "Display a map with pins indicating areas with active resume listings."
+msgstr "Visa en karta med stift som indikerar områden med aktiva CV listor."
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-map.php:16
+msgid "Jobify - Home: Resumes Map"
+msgstr "Jobify - Home: Återupptar Karta"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-recent.php:14
+msgid "Output a list of recent resumes."
+msgstr "Ut en lista över de senaste återupptas."
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-recent.php:16
+msgid "Jobify - Home: Recent Resumes"
+msgstr "Jobify - Hem: Senaste CV"
+
+#: inc/integrations/wp-resume-manager/widgets/class-widget-resumes-recent.php:29
+msgid "Number of resumes to show:"
+msgstr "Antal meritförteckningar för att visa:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installera krävs Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installera insticksprogram"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Installera insticksprogram: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Detta tema kräver följande plugin: %1$s."
+msgstr[1] "Detta tema kräver följande plugin: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Detta tema rekommenderar följande plugin: %1$s."
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:347
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Följande plugin måste uppdateras till den senaste versionen för att säkerställa maximal kompatibilitet med detta tema: %1$s."
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:362
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Följande krävs plugin är för närvarande inaktiv: %1$s."
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Följande rekommenderas plugin är för närvarande inaktiv: %1$s."
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:377
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Börjar installera plugin"
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Börja aktiverande plugin"
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Återgå till Obligatorisk Plugins Installer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Återgå till instrumentbrädan"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+#: inc/tgmpa/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin aktiveras framgångsrikt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Följande plugin aktiverades framgång:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alla insticksprogram installeras och aktiveras framgångsrikt. %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Avfärda detta meddelande"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:828
+#: inc/tgmpa/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Återgå till instrumentpanelen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:935
+#: inc/tgmpa/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Krävs"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Rekommenderad"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Wordpress arkiv"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Färdigförpackade"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Inte installerad"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Installerad men inte aktiverat"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2422
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Källa"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Typ"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Installera"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Aktivera"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Plugin aktivering misslyckades."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ett fel inträffade under installationen %1$s: <strong>%2$s </ strong>."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "Installationen av %1$s misslyckades."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr "Installationen och aktiveringsprocessen börjar. Denna process kan ta ett tag på vissa värdar, så ha tålamod."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installerat och aktiverat framgångsrikt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3370
+#: inc/tgmpa/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Visa detaljer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3370
+#: inc/tgmpa/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Dölj Detaljer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Alla installationer och aktiveringar har slutförts."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera och aktivera Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Installationsprocessen börjar. Denna process kan ta ett tag på vissa värdar, så ha tålamod."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s installerats."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Alla installationer har slutförts."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installera Plugin %1$s (%2$d/%3$d)"
+
+#: inc/theme-customizer.php:52
+msgid "Jobs%s"
+msgstr "Jobb %s"
+
+#: inc/theme-customizer.php:57
+msgid "Map"
+msgstr "Karta"
+
+#: inc/theme-customizer.php:85
+msgid "Enable themed login page"
+msgstr "Aktivera tema inloggningssida"
+
+#: inc/theme-customizer.php:92
+msgid "Information Display Area"
+msgstr "Information Display Area"
+
+#: inc/theme-customizer.php:97
+msgid "Top"
+msgstr "Topp"
+
+#: inc/theme-customizer.php:101
+msgid "Top Widget Columns"
+msgstr "Topp Widget Kolumner"
+
+#: inc/theme-customizer.php:112
+msgid "Column Span (must equal 12)"
+msgstr "Kolumn Span (måste vara lika 12)"
+
+#: inc/theme-customizer.php:119
+msgid "Header Background Color"
+msgstr "Header Bakgrundsfärg"
+
+#: inc/theme-customizer.php:125
+msgid "Navigation Text Color"
+msgstr "Navigation Textfärg"
+
+#: inc/theme-customizer.php:131
+msgid "Primary Color"
+msgstr "Primär färg"
+
+#: inc/theme-customizer.php:139
+msgid "Display Call to Action Box"
+msgstr "Display upprop Box"
+
+#: inc/theme-customizer.php:144
+msgid "Text"
+msgstr "Text"
+
+#: inc/theme-customizer.php:149
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/theme-customizer.php:154
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: inc/theme-customizer.php:164
+msgid "Use Clusters"
+msgstr "Använd Kluster"
+
+#: inc/theme-customizer.php:171
+msgid "Cluster Grid Size (px)"
+msgstr "Cluster Grid Size (px)"
+
+#: inc/theme-customizer.php:178
+msgid "Autofit initially"
+msgstr "Autofit initialt"
+
+#: inc/theme-customizer.php:185
+msgid "Default Center"
+msgstr "Standard Center"
+
+#: inc/theme-customizer.php:192
+msgid "Default Zoom"
+msgstr "Standard Zoom"
+
+#: inc/theme-customizer.php:200
+msgid "Maximum Zoom"
+msgstr "Maximal zoom"
+
+#: inc/widgets/class-widget-blog-posts.php:14
+msgid "Jobify - Display recent blog posts."
+msgstr "Jobify - Visa senaste blogginlägg."
+
+#: inc/widgets/class-widget-blog-posts.php:16
+msgid "Jobify - Home: Blog Posts"
+msgstr "Jobify - Hem: blogginlägg"
+
+#: inc/widgets/class-widget-blog-posts.php:20
+msgid "Recent News Article"
+msgstr "Senaste Newsartikel"
+
+#: inc/widgets/class-widget-callout.php:14
+msgid "Display call-out area with a bit of text and a button."
+msgstr "Display call-out område med lite text och en knapp."
+
+#: inc/widgets/class-widget-callout.php:16
+msgid "Jobify - Home: Callout"
+msgstr "Jobify - Hem: Bildtext"
+
+#: inc/widgets/class-widget-callout.php:27
+msgid "Button Label:"
+msgstr "Knapp Etikett:"
+
+#: inc/widgets/class-widget-callout.php:32
+msgid "Button URL:"
+msgstr "Button URL:"
+
+#: inc/widgets/class-widget-price-option.php:14
+msgid "Create a price option for the pricing table."
+msgstr "Skapa en prisalternativ för pristabellen."
+
+#: inc/widgets/class-widget-price-option.php:16
+msgid "Jobify - Home: Price Option"
+msgstr "Jobify - Home: Pris Option"
+
+#: inc/widgets/class-widget-price-option.php:20
+#: inc/widgets/class-widget-video.php:20
+msgid "Basic Listing"
+msgstr "Grundläggande Listing"
+
+#: inc/widgets/class-widget-price-option.php:26
+msgid "Color:"
+msgstr "Färg:"
+
+#: inc/widgets/class-widget-price-table.php:14
+msgid "Output the price table (based on the \"Price Table\" widget area)"
+msgstr "Utgång pristabellen (baserat på \"Pris Table\" widget område)"
+
+#: inc/widgets/class-widget-price-table.php:16
+msgid "Jobify - Home: Price Table"
+msgstr "Jobify - Home: Pris Table"
+
+#: inc/widgets/class-widget-price-table.php:31
+msgid ""
+"Drag \"Price Option\" widgets to the \"Price Table\" widget area to populate"
+" this widget."
+msgstr "Dra \"Pris Option\" widgets till \"Price Table\" widget område för att fylla denna widget."
+
+#: inc/widgets/class-widget-slider-content.php:16
+msgid "Display a Soliloquy slider with captions."
+msgstr "Visa en Soliloquy löpare med bildtexter."
+
+#: inc/widgets/class-widget-slider-content.php:18
+msgid "Jobify - Home: Solioquy Content Slider"
+msgstr "Jobify - Home: Solioquy Content Slider"
+
+#: inc/widgets/class-widget-slider-content.php:22
+#: inc/widgets/class-widget-slider-hero.php:20
+msgid "Slider:"
+msgstr "Slider:"
+
+#: inc/widgets/class-widget-slider-content.php:28
+msgid "Background Image URL:"
+msgstr "Bakgrundsbild URL:"
+
+#: inc/widgets/class-widget-slider-generic.php:14
+msgid "Display any slider that supports shortcodes."
+msgstr "Visa alla reglage som stöder kortkoder."
+
+#: inc/widgets/class-widget-slider-generic.php:16
+msgid "Jobify - Home: Slider"
+msgstr "Jobify - Hem: Slider"
+
+#: inc/widgets/class-widget-slider-generic.php:21
+msgid "Slider Shortcode"
+msgstr "Slider Snabb"
+
+#: inc/widgets/class-widget-slider-hero.php:14
+msgid "Display a \"Hero\" Soliloquy slider."
+msgstr "Visa en \"Hero\" reglaget Soliloquy."
+
+#: inc/widgets/class-widget-slider-hero.php:16
+msgid "Jobify - Home: Solioquy Hero Slider"
+msgstr "Jobify - Home: Solioquy hjälte Slider"
+
+#: inc/widgets/class-widget-stats.php:14
+msgid "Display useful statistics about your website."
+msgstr "Visar användbar statistik om din webbplats."
+
+#: inc/widgets/class-widget-stats.php:16
+msgid "Jobify - Home: Stats"
+msgstr "Jobify - Hem: Stats"
+
+#: inc/widgets/class-widget-stats.php:20
+msgid "Site Stats"
+msgstr "Statistik"
+
+#: inc/widgets/class-widget-stats.php:32
+msgid "Stats to Show:"
+msgstr "Statistik för att Visa:"
+
+#: inc/widgets/class-widget-stats.php:35
+msgid "Jobs"
+msgstr "Jobb"
+
+#: inc/widgets/class-widget-stats.php:36
+msgid "Positions Filled"
+msgstr "Positioner Fylld"
+
+#: inc/widgets/class-widget-stats.php:37
+msgid "Companies"
+msgstr "Företag"
+
+#: inc/widgets/class-widget-stats.php:38
+msgid "Users"
+msgstr "Användare"
+
+#: inc/widgets/class-widget-stats.php:39
+msgid "Resumes"
+msgstr "CV"
+
+#: inc/widgets/class-widget-stats.php:130
+msgid "Job Posted"
+msgid_plural "Jobs Posted"
+msgstr[0] "Job Inlägget"
+msgstr[1] ""
+
+#: inc/widgets/class-widget-stats.php:137
+msgid "Resume Posted"
+msgid_plural "Resumes Posted"
+msgstr[0] "Återuppta Inlagd"
+msgstr[1] ""
+
+#: inc/widgets/class-widget-stats.php:144
+msgid "Job Filled"
+msgid_plural "Jobs Filled"
+msgstr[0] "Jobb Fylld"
+msgstr[1] ""
+
+#: inc/widgets/class-widget-stats.php:151
+msgid "Company"
+msgid_plural "Companies"
+msgstr[0] "Företag"
+msgstr[1] ""
+
+#: inc/widgets/class-widget-stats.php:158
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] "Medlem"
+msgstr[1] ""
+
+#: inc/widgets/class-widget-video.php:14
+msgid "Display a video via oEmbed with a title and description."
+msgstr "Visa en video via oEmbed med en titel och beskrivning."
+
+#: inc/widgets/class-widget-video.php:16
+msgid "Jobify - Home: Video"
+msgstr "Jobify - Hem: Video"
+
+#: inc/widgets/class-widget-video.php:32
+msgid "Video URL:"
+msgstr "Video URL:"
+
+#: rcp/register.php:5
+msgid "Register New Account"
+msgstr "Registrera nytt konto"
+
+#: rcp/register.php:9
+msgid "Upgrade Your Subscription"
+msgstr "Uppgradera din prenumeration"
+
+#: rcp/register.php:21
+msgid "Choose your subscription level"
+msgstr "Välj din prenumeration nivå"
+
+#: rcp/register.php:58
+msgid "Select"
+msgstr "Välj"
+
+#: rcp/register.php:68
+msgid "You have not created any subscription levels yet"
+msgstr "Du har inte skapat några abonnemangsnivåer ännu"
+
+#: rcp/register.php:75
+msgid "Discount Code"
+msgstr "Rabattkod"
+
+#: rcp/register.php:76
+msgid "Valid"
+msgstr "Giltig"
+
+#: rcp/register.php:77
+msgid "Invalid"
+msgstr "Ogiltig"
+
+#: rcp/register.php:94
+msgid "Choose Your Payment Method"
+msgstr "Välj betalningsmetod"
+
+#: rcp/register.php:118
+msgid "Email"
+msgstr "E-post"
+
+#: rcp/register.php:122
+msgid "First Name"
+msgstr "Förnamn"
+
+#: rcp/register.php:126
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: rcp/register.php:134
+msgid "Password Again"
+msgstr "Lösenord igen"
+
+#: sidebar-single-job_listing-top.php:39
+msgid "Job Category"
+msgstr "Jobb Kategori"
+
+#: sidebar-single-job_listing-top.php:41
+msgid "Job Tags"
+msgstr "Jobb Taggar"
+
+#: sidebar-single-job_listing-top.php:44
+msgid "Share Job Posting"
+msgstr "Dela Ledig tjänst"
+
+#: sidebar-single-job_listing-top.php:48 single-company.php:47
+msgid "Company Details"
+msgstr "Företagsinfo"
+
+#: sidebar-single-job_listing.php:31
+msgid "Company Social"
+msgstr "Företagets sociala"
+
+#: sidebar-single-resume-top.php:38
+msgid "Share Resume"
+msgstr "Dela Resume"
+
+#: sidebar-single-resume-top.php:41 sidebar-single-resume.php:36
+msgid "Candidate Skills"
+msgstr "Kandidatförmåga"
+
+#: sidebar-single-resume-top.php:45
+msgid "Candidate Resume"
+msgstr "Kandidat CV"
+
+#: sidebar-single-resume-top.php:50
+msgid "Candidate Details"
+msgstr "Kandidat Detaljer"
+
+#: single-company.php:15
+msgid "Jobs at %s"
+msgstr "Jobb på %s"
+
+#: single-company.php:17
+msgid "%d Job Available"
+msgid_plural "%d Jobs Available"
+msgstr[0] "%d Jobb Tillgänglig"
+msgstr[1] ""
+
+#: woocommerce.php:94
+msgid "Add to cart"
+msgstr "Lägg till i kundvagn"
+
+#. Theme Name of the plugin/theme
+msgid "Jobify"
+msgstr "Jobify"
+
+#. Author URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/jobify-wordpress-job-board-"
+"theme/5247604?ref=Astoundify"
+msgstr "http://themeforest.net/item/jobify-wordpress-job-board-theme/5247604?ref=Astoundify"
+
+#. Description of the plugin/theme
+msgid ""
+"A beautiful job board site completely integrated with WP Job Manager. Use "
+"10+ custom widgets including an interactive map, multiple sliders, "
+"testimonials, and more to create a unique homepage in seconds. Also supports"
+" all official WP Job Manager addons including Resume Manager, WooCommerce "
+"Paid Listings, and more."
+msgstr "En vacker jobb ombord webbplats helt integrerat med WP Job Manager. Använd 10+ anpassade widgets, inklusive en interaktiv karta, flera skjutreglage, vittnesmål, och mer för att skapa en unik hemsida på några sekunder. Stöder även alla officiella WP Job Manager addons inklusive Resume Manager WooCommerce betalda listningar, och mer."
+
+#. Author of the plugin/theme
+msgid "Astoundify"
+msgstr "Astoundify"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Full bredd"
+
+#. Template Name of the plugin/theme
+msgid "Jobify Homepage"
+msgstr "Jobify Hemsida"
+
+#. Template Name of the plugin/theme
+msgid "Map + Jobs"
+msgstr "Karta + Jobb"
+
+#. Template Name of the plugin/theme
+msgid "Map + Resumes"
+msgstr "Karta + CV"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "Sida med Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Pricing - Resumes"
+msgstr "Prissättning - CV"
+
+#. Template Name of the plugin/theme
+msgid "Pricing"
+msgstr "Prissättning"
+
+#. Template Name of the plugin/theme
+msgid "Testimonials"
+msgstr "Kundreferenser"
+
+#: archive.php:16
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "A Y"
+
+#: archive.php:18
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En trodde på och ldquo; %2$s&rdquo;"
+msgstr[1] ""
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:114
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "på"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Varela Round, translate this to 'off'. Do not translate
+#. into your
+#. * own language.
+#: functions.php:120
+msgctxt "Varela Round font: on or off"
+msgid "on"
+msgstr "på"
+
+#: functions.php:558
+msgctxt "comment author \"on\" date"
+msgid "on"
+msgstr "på"
+
+#: functions.php:563
+msgctxt "on 1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s på %2$s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:177
+msgctxt "company description on submission form"
+msgid "Description"
+msgstr "Beskrivning"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager.php:291
+msgctxt "login for submit label"
+msgid "Sign In"
+msgstr "Logga in"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1116
+#: inc/tgmpa/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/theme-customizer.php:47
+msgctxt "Theme customizer section title"
+msgid "General"
+msgstr "Allmänt"
+
+#: inc/theme-customizer.php:62
+msgctxt "Theme customizer section title"
+msgid "Call to Action"
+msgstr "Uppmaning till handling"
+
+#: index.php:19
+msgctxt "blog page title"
+msgid "Blog"
+msgstr "Blogg"
