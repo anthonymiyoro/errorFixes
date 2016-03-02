@@ -22,6 +22,7 @@
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<?php if ( is_active_sidebar( 'widget-area-footer' ) ) : ?>
+<!--
 			<div class="footer-widgets">
 				<div class="container">
 					<div class="row">
@@ -29,6 +30,7 @@
 					</div>
 				</div>
 			</div>
+-->
 			<?php endif; ?>
 
 			<div class="copyright">
