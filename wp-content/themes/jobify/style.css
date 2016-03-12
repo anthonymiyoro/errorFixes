@@ -5547,6 +5547,13 @@ hr {
     content: '\e8a5';
 }
 
+.job-overview.col-md-12.col-sm-12 {
+    background-color: lightgrey;
+    color: white;
+    border-radius: 5px;
+    border-color: gray;
+    border: 10px solid #9e9e9e;
+}
 .icon-list:before {
     content: '\e8a6';
 }
@@ -6026,7 +6033,7 @@ hr {
 *,:after,:before {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 
 .container,.jobify_widget_map div.job_listings,.jobify_widget_map div.resumes,.jobify_widget_map_resumes div.job_listings,.jobify_widget_map_resumes div.resumes {
@@ -7445,6 +7452,7 @@ img.aligncenter {
 
 .single-job-spotlight {
     margin-bottom: 60px;
+
 }
 
 .single-job-spotlight-feature-image {
@@ -8705,10 +8713,13 @@ body.wp-job-manager-apply-email:not(.wp-job-manager-contact-listing) .job_manage
 
 .job-overview-content,.single-resume-content {
     line-height: 24px;
+
+
 }
 
 .job-overview-content .job-company-about,.job-overview-content .job-overview:not(.col-md-12) {
     margin-bottom: 60px;
+width:450px;
 }
 
 .job-overview-title,.job_listing-widget-title-top,.sidebar-widget-title {

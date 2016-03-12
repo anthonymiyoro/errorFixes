@@ -1,6 +1,6 @@
 ********************************************************************************
 DUPLICATOR INSTALL-LOG
-STEP1 START @ 02:51:22
+STEP1 START @ 08:43:45
 NOTICE: Do NOT post to public sites or forums
 ********************************************************************************
 VERSION:	1.1.4
@@ -9,22 +9,22 @@ SERVER:		Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/7.0.0 mod_ssl/2.2.2
 DOC ROOT:	/Applications/MAMP/htdocs/test_site
 DOC ROOT 755:	true
 LOG FILE 644:	true
-BUILD NAME:	20160301_eburtonservices_56d597e1c48c61205160301132345
+BUILD NAME:	20160301_eburtonservices_56de7f0e585487826160308072814
 REQUEST URL:	http://localhost/test_site/installer.php
 
 ********************************************************************************
 ARCHIVE SETUP
 ********************************************************************************
-NAME:	20160301_eburtonservices_56d597e1c48c61205160301132345_archive.zip
-SIZE:	31.99MB
+NAME:	20160301_eburtonservices_56de7f0e585487826160308072814_archive.zip
+SIZE:	35.65MB
 ZIP:	Enabled (ZipArchive Support)
 EXTRACTING
 ZipArchive Object
 (
     [status] => 0
     [statusSys] => 0
-    [numFiles] => 4865
-    [filename] => /Applications/MAMP/htdocs/test_site/20160301_eburtonservices_56d597e1c48c61205160301132345_archive.zip
+    [numFiles] => 5017
+    [filename] => /Applications/MAMP/htdocs/test_site/20160301_eburtonservices_56de7f0e585487826160308072814_archive.zip
     [comment] => 
 )
 COMPLETE: true
@@ -37,7 +37,7 @@ UPDATED FILES:
 - SQL FILE:  '/Applications/MAMP/htdocs/test_site/installer-data.sql'
 - WP-CONFIG: '/Applications/MAMP/htdocs/test_site/wp-config.php'
 
-ARCHIVE RUNTIME: 4.6295 sec.
+ARCHIVE RUNTIME: 5.0143 sec.
 
 
 ********************************************************************************
@@ -53,46 +53,46 @@ MAXPACK:	1048576
 DATABASE RESULTS
 --------------------------------------
 ERRORS FOUND:	0
-DROP TABLE:	
-QUERIES RAN:	2038
+DROP TABLE:	removed (24) tables
+QUERIES RAN:	2273
 
 wp_commentmeta: (0)
 wp_comments: (0)
-wp_duplicator_packages: (1)
+wp_duplicator_packages: (3)
 wp_links: (0)
-wp_nf_objectmeta: (81)
-wp_nf_objects: (5)
-wp_nf_relationships: (3)
+wp_nf_objectmeta: (129)
+wp_nf_objects: (9)
+wp_nf_relationships: (4)
 wp_ninja_forms_fav_fields: (17)
-wp_ninja_forms_fields: (8)
-wp_options: (410)
-wp_postmeta: (1040)
-wp_posts: (179)
-wp_revslider_css: (50)
+wp_ninja_forms_fields: (47)
+wp_options: (443)
+wp_postmeta: (1108)
+wp_posts: (201)
+wp_revslider_css: (54)
 wp_revslider_layer_animations: (0)
 wp_revslider_settings: (1)
-wp_revslider_sliders: (2)
-wp_revslider_slides: (5)
+wp_revslider_sliders: (4)
+wp_revslider_slides: (7)
 wp_revslider_static_slides: (0)
-wp_term_relationships: (102)
-wp_term_taxonomy: (23)
+wp_term_relationships: (105)
+wp_term_taxonomy: (26)
 wp_termmeta: (0)
-wp_terms: (23)
-wp_usermeta: (59)
+wp_terms: (26)
+wp_usermeta: (60)
 wp_users: (3)
-Removed '155' cache/transient rows
+Removed '183' cache/transient rows
 
-SECTION RUNTIME: 0.3875 sec.
+SECTION RUNTIME: 0.5588 sec.
 
 ********************************************************************************
-STEP1 COMPLETE @ 02:51:27 - TOTAL RUNTIME: 5.0270 sec.
+STEP1 COMPLETE @ 08:43:50 - TOTAL RUNTIME: 5.6334 sec.
 ********************************************************************************
 
 
 
 ********************************************************************************
 DUPLICATOR INSTALL-LOG
-STEP2 START @ 02:52:06
+STEP2 START @ 08:43:57
 NOTICE: Do not post to public sites or forums
 ********************************************************************************
 CHARSET SERVER:	latin1
@@ -108,38 +108,38 @@ wp_commentmeta^ (0)
 wp_comments^ (0)
 wp_duplicator_packages^ (0)
 wp_links^ (0)
-wp_nf_objectmeta~ (81)
-wp_nf_objects~ (5)
-wp_nf_relationships~ (3)
+wp_nf_objectmeta~ (129)
+wp_nf_objects~ (9)
+wp_nf_relationships~ (4)
 wp_ninja_forms_fav_fields~ (17)
-wp_ninja_forms_fields~ (8)
-wp_options~ (254)
-wp_postmeta~ (1040)
-wp_posts~ (179)
-wp_revslider_css~ (50)
+wp_ninja_forms_fields~ (47)
+wp_options~ (261)
+wp_postmeta~ (1108)
+wp_posts~ (201)
+wp_revslider_css~ (54)
 wp_revslider_layer_animations^ (0)
 wp_revslider_settings~ (1)
-wp_revslider_sliders~ (2)
-wp_revslider_slides~ (5)
+wp_revslider_sliders~ (4)
+wp_revslider_slides~ (7)
 wp_revslider_static_slides^ (0)
-wp_term_relationships~ (102)
-wp_term_taxonomy~ (23)
+wp_term_relationships~ (105)
+wp_term_taxonomy~ (26)
 wp_termmeta^ (0)
-wp_terms~ (23)
-wp_usermeta~ (59)
+wp_terms~ (26)
+wp_usermeta~ (60)
 wp_users~ (3)
 --------------------------------------
 SEARCH1:	'http://eburtonservices.com' 
 REPLACE1:	'http://localhost:8888/test_site' 
 SEARCH2:	'/home/eburtonservices/public_html/' 
 REPLACE2:	'/Applications/MAMP/htdocs/test_site/' 
-SCANNED:	Tables:24 | Rows:1855 | Cells:10888 
-UPDATED:	Tables:3 | Rows:171 |Cells:191 
+SCANNED:	Tables:24 | Rows:2062 | Cells:12253 
+UPDATED:	Tables:3 | Rows:198 |Cells:236 
 ERRORS:		0 
-RUNTIME:	0.400900 sec
+RUNTIME:	1.006300 sec
 
 ********************************************************************************
-START FINAL CLEANUP: 02:52:07
+START FINAL CLEANUP: 08:43:58
 ********************************************************************************
 UPDATE `wp_blogs` SET domain = 'localhost' WHERE domain = 'eburtonservices.com'
 
@@ -151,5 +151,5 @@ WP-CONFIG WARNING: The wp-config.php has one or more of these values "WP_CONTENT
 WEB SERVER CONFIGURATION FILE BASIC SETUP:
 created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
 ********************************************************************************
-STEP 2 COMPLETE @ 02:52:07 - TOTAL RUNTIME: 0.4128 sec.
+STEP 2 COMPLETE @ 08:43:58 - TOTAL RUNTIME: 1.0145 sec.
 ********************************************************************************
