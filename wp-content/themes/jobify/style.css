@@ -5547,6 +5547,13 @@ hr {
     content: '\e8a5';
 }
 
+/*
+============================================
+
+Herien lies Widget Styling
+
+PROCEED WITH CAUTION
+*/
 
 .job-overview.col-md-12.col-sm-12 {
 /*
@@ -5561,7 +5568,7 @@ hr {
     height: 246px;
     min-height: 1px;
     position: relative;
-    width: 1200px;
+    width: 480px;
     perspective-origin: 625px 133px;
     transform-origin: 625px 133px;
     background: rgb(211, 211, 211) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -5570,9 +5577,17 @@ hr {
     font: normal normal normal normal 16px / 24px 'Varela Round', Helvetica, sans-serif;
     outline: rgb(255, 255, 255) none 0px;
     padding: 0px 15px;
-
+    bottom: 750px;
+    length: 600px;
 
 }
+
+.single_job_listing{
+    height: 500px;
+}
+
+/*============================================*/
+
 .icon-list:before {
     content: '\e8a6';
 }
