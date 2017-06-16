@@ -1,3 +1,5 @@
+## PYTHON SDK ERROR
+
 1. To fix Python SDK error, go to settings:
 
 ![PyCharm Settings](https://github.com/anthonymiyoro/errorFixes/blob/master/Screen%20Shot%202017-06-16%20at%2018.11.51.png?raw=true)
