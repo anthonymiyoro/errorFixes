@@ -45,3 +45,15 @@ to url(r'^about/$', about, name='about'), after importing:
 from trydjango18.views import about
 
 Found in https://stackoverflow.com/questions/38744285/django-urls-error-view-must-be-a-callable-or-a-list-tuple-in-the-case-of-includ
+
+
+### ImportError: No module named 'crispy_forms'
+
+pip3 install --upgrade django-crispy-forms
+
+
+### RuntimeError: Model class allauth.account.models.EmailAddress doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+
+https://stackoverflow.com/questions/34369597/django-1-9-and-allauth-0-24-1
+
+Use square brackets when calling from a list
