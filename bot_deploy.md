@@ -32,6 +32,8 @@ git remote add origin https://github.com/anthonymiyoro/shopping_bot_example.git
 
 ```
 
+Then run ``` git pull origin master ```.
+
 5. Open your config.py file and fill in the required variables replacing FACEBOOK_TOKEN_HERE with you facebook app pages' token and SERVER_URL_HERE with the url of your newly created heroku server.
 
 The config.py file should look like the snippet below:
