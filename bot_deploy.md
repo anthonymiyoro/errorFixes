@@ -76,16 +76,8 @@ Ensure you have navigated to the folder containing your bot and type in the give
 
 	![URL subscription](https://github.com/anthonymiyoro/Bot-Builder-Site/blob/master/images/subscription.png "")
 
-	Once selected click on edit subscription and copy your https url (as shown below) from ngrock in your terminal to the Callback URL section followed by /webhook. 
+	Once selected click on edit subscription and copy your https url to the Callback URL section followed by /webhook. 
 	
-	![ngrok](https://cdn-images-1.medium.com/max/1600/1*LtnvanCk2-ZVJY1kA0cMfQ.png "")
-	
-	According to the image above, our callback url will be 
-
-	```
-	https://bd2cb171.ngrok.io/webhook
-
-	```
 	Under the Verify Token field of the page subscription, add 
 	```
 	my_verify_token
