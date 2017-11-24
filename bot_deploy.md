@@ -58,7 +58,9 @@ When filled, it should look like the snippet below:
  	
 	```
 
-6. Once filled, save your config.py file and head over to the heroku [dashboard](https://dashboard.heroku.com/apps) and select your previously created app. 
+
+6. Once filled, save your config.py file and can then run ``` git push heroku master ``` in your terminal to publish the changes you've made.
+Head over to the heroku [dashboard](https://dashboard.heroku.com/apps) and select your previously created app. 
 
 7. Once selected you should se something similar to the image below: 
 
