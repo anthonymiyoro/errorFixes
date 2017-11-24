@@ -72,6 +72,31 @@ Ensure you have navigated to the folder containing your bot and type in the give
 
 ![Install](https://github.com/anthonymiyoro/Bot-Builder-Site/blob/master/images/install.png "")
 
+8. Head over to your apps page on the Facebook for Developers site and under products, select webhooks.
+
+	![URL subscription](https://github.com/anthonymiyoro/Bot-Builder-Site/blob/master/images/subscription.png "")
+
+	Once selected click on edit subscription and copy your https url (as shown below) from ngrock in your terminal to the Callback URL section followed by /webhook. 
+	
+	![ngrok](https://cdn-images-1.medium.com/max/1600/1*LtnvanCk2-ZVJY1kA0cMfQ.png "")
+	
+	According to the image above, our callback url will be 
+
+	```
+	https://bd2cb171.ngrok.io/webhook
+
+	```
+	Under the Verify Token field of the page subscription, add 
+	```
+	my_verify_token
+
+	```
+	as seen in the config.py file. 
+	
+	![Webhook](https://github.com/anthonymiyoro/Bot-Builder-Site/blob/master/images/webhook.png "")
+	
+	You can then click on the verify and save button to save the webhook.
+
 
 
 
