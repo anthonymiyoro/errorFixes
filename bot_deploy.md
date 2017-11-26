@@ -59,8 +59,7 @@ When filled, it should look like the snippet below:
 	```
 
 
-6. Once filled, save your config.py file and can then run ``` git push heroku master ``` in your terminal to publish the changes you've made.
-Head over to the heroku [dashboard](https://dashboard.heroku.com/apps) and select your previously created app. 
+6. Once filled, save your config.py file and then head over to the heroku [dashboard](https://dashboard.heroku.com/apps) and select your previously created app. 
 
 7. Once selected you should se something similar to the image below: 
 
@@ -90,6 +89,8 @@ Ensure you have navigated to the folder containing your bot and type in the give
 	![Webhook](https://github.com/anthonymiyoro/Bot-Builder-Site/blob/master/images/webhook.png "")
 	
 	You can then click on the verify and save button to save the webhook.
+	
+9. The last step is to head to the messenger tab on the left side of the web page and in the webhooks section, click on the edit events button and choose messages and messaging_postbacks. You can also enable NLP in the section below.
 
 
 
